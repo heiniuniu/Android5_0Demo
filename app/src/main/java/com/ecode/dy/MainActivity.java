@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-import com.ecode.dy.R;
 
 /**
  * Created by pengleigang on 2017/12/4.
